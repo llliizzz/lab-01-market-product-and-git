@@ -104,3 +104,108 @@ Based on the responsibilities above, the following technical skills are commonly
 
 - **Security basics:**  
   - Authentication, encryption, and secure coding practices  
+
+## My chosen role
+
+### Role  
+
+QA Engineer  
+
+### Skills I already have  
+
+- Git and GitHub  
+- Basic programming (Python/Java/JS)  
+- Understanding of REST APIs at a basic level  
+- Basic SQL and working with simple databases  
+- Basic idea of how software testing works (bug reports, test cases)  
+
+### Skills I clearly lack  
+
+- Test automation (e.g., Selenium, Playwright, Cypress)  
+- CI/CD and automated testing pipelines  
+- Performance and load testing tools (e.g., JMeter, k6)  
+- API testing tools at an advanced level (e.g., Postman, Swagger, automated API tests)  
+- Testing in distributed/microservice systems  
+
+## Job postings analyzed
+
+## Job postings analyzed
+
+1) Mobile QA Engineer (Manual + Automation)  
+Link: <https://kazan.hh.ru/vacancy/130195470>  
+Key skills:  
+
+- Mobile testing (iOS/Android)  
+- Manual testing and test cases  
+- Basic automation testing  
+- API testing  
+- Bug tracking (Jira)
+
+1) Middle QA Manual  
+Link: <https://kazan.hh.ru/vacancy/130215757>  
+Key skills:  
+
+- Functional and regression testing  
+- Writing test documentation  
+- Web testing  
+- Jira  
+- Working with requirements
+
+1) QA инженер (автоматизированное тестирование)  
+Link: <https://kazan.hh.ru/vacancy/130217035>  
+Key skills:  
+
+- Test automation (Python/Java)  
+- Selenium or similar tools  
+- CI/CD pipelines  
+- API testing  
+- Git
+
+1) Junior QA Manual Engineer  
+Link: <https://kazan.hh.ru/vacancy/130044430>  
+Key skills:  
+
+- Manual testing basics  
+- Writing bug reports  
+- Web testing  
+- Basic SQL  
+- Working with test cases  
+
+---
+
+## Job market snapshot
+
+### Skills that appear in several postings
+
+- Manual testing (functional, regression)  
+- Writing test documentation / bug reports  
+- Web testing  
+- Basic API testing  
+- Jira (или аналогичная система для баг-трекинга)
+
+### Skills specific to a single posting
+
+- Mobile testing (iOS/Android) — только в Mobile QA  
+- Test automation (Selenium, Python/Java) — только в автоматизации  
+- CI/CD familiarity — только в автоматизированной вакансии  
+- Basic SQL — явлено только в Junior QA Manual
+
+## Personal reflection
+
+I chose the role of QA Engineer because I like finding bugs and help make products better and more reliable for users.  
+Also I feel that this role lets me understand how software works without writing too much complicated code.  
+
+Right now my skills match the market only on basic level: I understand manual testing, Git and simple APIs, which many junior QA jobs require.  
+But compared to the market, I am still behind with test automation and professional testing tools.  
+
+I noticed that many companies expect QA engineers to know both manual and automated testing, what I don’t fully have yet.  
+
+This semester I want to develop two main skills: test automation and SQL.  
+Learning automation (for example Selenium or Playwright) will help me to be more competitive and apply for better QA jobs.  
+Improving my SQL skills will let me analyze data, check databases and test backend systems more effective.  
+
+Overall, this analysis helped me better understand what employers really expect from QA engineers and what I need to focus on next.
+
+---
+
+##
