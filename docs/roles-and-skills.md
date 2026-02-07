@@ -84,6 +84,8 @@ Below are five selected roles and what they typically do in a product like Teleg
 
 Based on the responsibilities above, the following technical skills are commonly required across many roles:
 
+- Basic understanding of test documentation standards
+
 - **Programming languages:**  
   - Kotlin/Swift (for mobile), Java/Go/Python (for backend)
 
